@@ -73,8 +73,6 @@ img {
   border-radius: 20px;
   overflow-clip-margin: content-box;
   overflow: clip;
-  overflow-x: ;
-  overflow-y: ;
 
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
@@ -117,6 +115,7 @@ h2 {
   align-self: center;
   border: 2px solid #91a7ff;
   border-radius: 10px;
+  margin-bottom: 0;
 }
 .Header-1 {
   margin-bottom: 32px;
